@@ -1,0 +1,58 @@
+﻿Tertiary Worklist
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
+120922
+Live/real time video, images... from camera to p2p and cloud
+
+
+111922
+App/screen pinning on fitness band
+
+
+111522
+Integrate email into com apps
+
+
+110522
+Personalize spam reporting in email
+
+
+102022
+p2p passport
+
+
+101422
+Add font changes bold type to browser rendition settings
+Add reordering of data rows in tables to browser rendition settings
+Integrate data rows into tables via browser
+
+
+101322
+Big tel video data service via apps
+
+
+101122
+TV dev board with working android TV os or working Google TV os
+
+
+100822
+Linux desktop apps integration into chrome os
+
+
+100622
+B2C payments (Meridian) via BZelle
+
+
+100522
+Automatic switching to home wifi from hotspot
+Big tel PSTN data service via apps
+
+
+071522
+Android TV os, be able to take screenshots, onscreen recording, saving of clips, sharing. All the things you have on android phone os

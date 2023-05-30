@@ -1,0 +1,19 @@
+﻿Secondary Worklist
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
+101122
+Risc 5 TV dev board with working android TV os or working Google TV os
+
+
+101022
+Risc 5 dev board with ChromeOS and working Linux desktop apps or chromium os with working Linux desktop apps
+
+
+100922
+Chrome os with working Linux desktop apps or chromium os with working Linux desktop apps
