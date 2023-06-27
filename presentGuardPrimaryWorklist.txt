@@ -4,6 +4,7 @@
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
@@ -11,7 +12,7 @@ Finance
 Bank
 
 
-Tech
+Engineering
 Risc 5 dev board with new os and new apps
 
 
