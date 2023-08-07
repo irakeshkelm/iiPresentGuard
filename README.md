@@ -12,11 +12,11 @@ then, continue
 
 to Check out,
 
-waveComm.txt (in this folder)
+doubleOccupancy.txt (in this folder)
 
 if, still interested, Check out
 
-electronLegal.txt (in this folder)
+socializing.txt (in this folder)
 
 Build and Operationalize a Planet. Expand and Update Independent Interest
 
