@@ -1,6 +1,6 @@
 # iiPresentGuard
 
-Forward movement - Planet, Independent interest (Suc-king)
+Present Guard - Planet, Independent interest (Suc-king)
 
 https://presentguard.planet.ii
 
